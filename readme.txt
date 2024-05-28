@@ -9,4 +9,5 @@ try again again
 terminal    
 up to date  
 created a new branch "dev"
-test branch
+Creating a new branch is quick AND simple.
+test branch 
