@@ -6,3 +6,4 @@ git is useful.
 git now is ok. 
 try again. 
 try again again
+terminal    
